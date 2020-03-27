@@ -12,7 +12,7 @@
 
 #### Treinamento imersivo nas tecnologias mais modernas de desenvolvimento web e mobile para quem não tem tempo a perder.
 
-##### Projeto está sendo construido utilizando as ferramentas Node, React e React Native
+##### Projeto sendo construido utilizando as ferramentas Node, React e React Native
 
 ## Instalação
 
