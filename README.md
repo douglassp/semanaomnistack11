@@ -1,12 +1,12 @@
 <p align="center">
-  <a href="https://www.rocketseat.com.br">
+  <a target="_blank" rel="noopener noreferrer" href="https://www.rocketseat.com.br">
   <img src="https://rocketseat.com.br/static/images/update/melhores-tecnologias.svg" alt="Programe ja">
   </a>
 </p>
 
 <p align="center">
 <h2>
-  <a href="https://rocketseat.com.br/week/inscricao/11.0">Projeto da Semana Omnistack 11</a>
+  <a target="_blank" rel="noopener noreferrer" href="https://rocketseat.com.br/week/inscricao/11.0">Projeto da Semana Omnistack 11</a>
  </h2>
 </p>
 
