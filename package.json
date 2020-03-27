@@ -1,0 +1,16 @@
+{
+  "name": "aulas",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/douglassp/semanaomnistack11.git",
+  "author": "Douglas Silva <douglasilva14@terra.com.br>",
+  "license": "MIT",
+  "scripts": {
+    "start": "npm-run-all --parallel back front",
+    "back": "cd backend && yarn start",
+    "front": "cd frontend && yarn start"
+  },
+  "devDependencies": {
+    "npm-run-all": "^4.1.5"
+  }
+}
