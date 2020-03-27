@@ -16,22 +16,18 @@
 
 ## Instalação
 
+Tenha instalado em seu computador o **Node 10** ou maior. Baixe-o em https://nodejs.org
+
 Clone este projeto em seu PC:
 
 ```bash
 git clone https://github.com/douglassp/semanaomnistack11.git
 ```
 
-Entre no diretório do projeto e rode:
+Entre no diretório do projeto e veja a mágica acontecer digitando:
 
 ```bash
-yarn install
-```
-
-Veja a mágica acontecer digitando:
-
-```bash
-yarn start
+npm start
 ```
 
 ## Alguma sugestão ou dúvida ?

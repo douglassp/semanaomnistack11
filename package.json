@@ -6,7 +6,7 @@
   "author": "Douglas Silva <douglasilva14@terra.com.br>",
   "license": "MIT",
   "scripts": {
-    "start": "npm-run-all --parallel back front",
+    "start": "npm install -g yarn && yarn install && npm-run-all --parallel back front",
     "back": "cd backend && yarn start",
     "front": "cd frontend && yarn start"
   },
