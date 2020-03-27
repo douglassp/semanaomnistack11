@@ -18,7 +18,7 @@
 
 Tenha instalado em seu computador o **Node 10** ou maior. Baixe-o em https://nodejs.org
 
-Clone este projeto em seu PC:
+Clone este projeto em seu PC com o git:
 
 ```bash
 git clone https://github.com/douglassp/semanaomnistack11.git

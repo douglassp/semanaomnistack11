@@ -15,7 +15,8 @@
   },
   "scripts": {
     "dev": "nodemon src/index.js",
-    "start": "yarn install && react-scripts start",
+    "start": "yarn install && yarn start2",
+    "start2": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
